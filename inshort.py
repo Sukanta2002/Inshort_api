@@ -59,7 +59,7 @@ def call(lan,category):
        
         newsData ={
             'Titel':news_headline,
-            'cotent':content,
+            'content':content,
             'Image Url':imageUrl,
             'Read More Url':readmore,
             'Author':author,
